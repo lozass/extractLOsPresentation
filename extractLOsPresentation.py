@@ -6,6 +6,7 @@ from pptx import Presentation
 from pptx.enum.shapes import MSO_SHAPE_TYPE
 import glob
 
+# change the path to point to your local directory
 path = "c:/Users/lozas/COMM1076-python/"
 testString = "Learning Objectives"
 
